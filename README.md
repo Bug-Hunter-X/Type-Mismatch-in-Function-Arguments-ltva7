@@ -1,0 +1,1 @@
+This repository demonstrates a common TypeScript error: type mismatch in function arguments. The function 'add' expects two numbers, but a string is passed as the second argument, causing a type error. The solution demonstrates how to address this issue by using type guards or type assertions to ensure that the function's arguments are of the correct type.
